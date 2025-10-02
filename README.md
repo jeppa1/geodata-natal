@@ -16,7 +16,7 @@ O resultado final é um mapa que exibe claramente as divisões geográficas, per
 
 *(Dica: Tire um print do mapa gerado no Colab, salve como `mapa_natal_bairros.png` e adicione ao seu repositório para que a imagem apareça aqui.)*
 
-![Prévia do Mapa](mapa_natal_bairros.png)
+![Prévia do Mapa](Mapa_Natal_bairros.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -32,7 +32,7 @@ Você pode replicar esta análise seguindo os passos abaixo:
 
 1.  **Clone ou baixe este repositório:**
     ```sh
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/jeppa1/geodata-natal.git](https://github.com/jeppa1/geodata-natal.git)
     ```
 
 2.  **Prepare o Ambiente no Google Colab:**
@@ -72,7 +72,7 @@ A análise seguiu uma metodologia estruturada de 5 passos, conforme o escopo ori
 
 ## ✒️ Autor
 
-**[Seu Nome]**
+**Jadson Chagas**
 
-* LinkedIn: [https://linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
-* GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+* LinkedIn: [https://linkedin.com/in/seu-linkedin](https://linkedin.com/in/jadson-chagas)
+* GitHub: [https://github.com/seu-usuario](https://github.com/jeppa1)
