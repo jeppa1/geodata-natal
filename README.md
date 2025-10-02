@@ -72,5 +72,5 @@ A análise seguiu uma metodologia estruturada de 5 passos, conforme o escopo ori
 
 **Jadson Chagas**
 
-* LinkedIn: [https://linkedin.com/in/seu-linkedin](https://linkedin.com/in/jadson-chagas)
-* GitHub: [https://github.com/seu-usuario](https://github.com/jeppa1)
+* LinkedIn: [https://linkedin.com/in/jadson-chagas](https://linkedin.com/in/jadson-chagas)
+* GitHub: [https://github.com/jeppa1](https://github.com/jeppa1)
