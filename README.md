@@ -14,8 +14,6 @@ O objetivo principal é carregar, analisar e visualizar os dados contidos em um 
 
 O resultado final é um mapa que exibe claramente as divisões geográficas, permitindo uma fácil identificação dos bairros e de sua respectiva zona administrativa.
 
-*(Dica: Tire um print do mapa gerado no Colab, salve como `mapa_natal_bairros.png` e adicione ao seu repositório para que a imagem apareça aqui.)*
-
 ![Prévia do Mapa](Mapa_Natal_bairros.png)
 
 ## 🛠️ Tecnologias Utilizadas
