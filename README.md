@@ -14,7 +14,7 @@ O objetivo principal é carregar, analisar e visualizar os dados contidos em um 
 
 O resultado final é um mapa que exibe claramente as divisões geográficas, permitindo uma fácil identificação dos bairros e de sua respectiva zona administrativa.
 
-![Prévia do Mapa](Mapa_Natal_bairros.png)
+![Prévia do Mapa](Mapa_Natal_-_Bairros.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
